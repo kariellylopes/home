@@ -1,1 +1,36 @@
 # home
+# Aqui é a minha homepage
+
+
+Posso escrever qualquer coisa aqui e deixar disponível para que outras pessoas possam ver.
+Quando eu uso um "hashtag" no início da linha, o texto que vem adiante se transforma em um título.
+
+Quando vou escrever uma lista de "pontos", inicio a linha com um asterisco:
+
+* opção 1
+* opção 2,
+* etc
+
+Para mudar de parágrafo, deixo uma linha em branco.
+
+Aqui é outro parágrafo
+
+Para adiciona um link, deixo um texto entre colchetes e coloco o endereço do link entre parênteses, assim:
+[Modelo Gaussiano](http://tiny.cc/gaussiana)
+
+ah sim
+
+ - [ ] deixe um par de colchetes com um espaço em branco para fazer uma caixinha
+ - [ ] outro exemplo parece que tem que colocar um tracinho, esqueci como faz...
+ 
+ - se colocar apenas um tracinho, acho que faz alguma coisa também...
+ - vamos ver no que vai dar ...
+ 
+ para formatar um subtítulo, basta usar 2, 3, ... cerquilhas,
+ 
+ ## subtítulo legal
+ ### sub-subtítulo, etc...
+ 
+ Para colocar uma imagem, é quase a mesma coisa do link, mas se inicia com !
+ 
+ ![foto de gatinho](https://tse1.mm.bing.net/th?id=OIP.pbN8OZxbMej1QB68a3CkPQHaF7&pid=Api&rs=1&c=1&qlt=95&w=114&h=91)
