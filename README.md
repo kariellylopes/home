@@ -34,3 +34,12 @@ ah sim
  Para colocar uma imagem, é quase a mesma coisa do link, mas se inicia com !
  
  ![foto de gatinho](https://tse1.mm.bing.net/th?id=OIP.pbN8OZxbMej1QB68a3CkPQHaF7&pid=Api&rs=1&c=1&qlt=95&w=114&h=91)
+ 
+ # Formatação de texto
+ Um texto pode ser formatado de diversas maneiras: *dar um destaque em itálico*, **dar um destaque em negrito**, ~dar um destaque especial~ 
+ `dar um destaque rústico` (crase)
+ 
+ enumerar uma lista
+   1. item um
+   2. item dois
+   3. etc. acho que tem que dar alguns espaços no início da linha, tenho mais uma ideia, vou testar depois
