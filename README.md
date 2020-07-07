@@ -29,6 +29,7 @@ ah sim
  para formatar um subtítulo, basta usar 2, 3, ... cerquilhas,
  
  ## subtítulo legal
+ 
  ### sub-subtítulo, etc...
  
  Para colocar uma imagem, é quase a mesma coisa do link, mas se inicia com !
@@ -45,6 +46,7 @@ ah sim
    3. etc. acho que tem que dar alguns espaços no início da linha, tenho mais uma ideia, vou testar depois
 
  ## lista de compras
+ 
  ### doces
  1. **trufa de licor de cereja**
  2. diamante negro
