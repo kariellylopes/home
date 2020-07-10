@@ -2,13 +2,13 @@
 
 **INPORTANTE LEMBRAR:**
 
-* *Palavras são como pedras, dependendo da intensidade com que são atiradas podem machucar muito!
+`Palavras são como pedras, dependendo da intensidade com que são atiradas podem machucar muito!`
 
-* *Pessoas são como o papel, uma vez amassado não importa o que façamos nunca volta a ter ser perfeitamente liso... quando machucamos alguém, mesmo pedindo perdão ou sendo perdoaos não se pode apagar o que fizemos, isso estará sempre gravado na memória principalmente de quem saiu machucado...
+`Pessoas são como o papel, uma vez amassado não importa o que façamos nunca volta a ser liso como antes... quando machucamos alguém, mesmo pedindo perdão ou sendo perdoaos não se pode apagar o que fizemos, isso estará sempre gravado na memória principalmente de quem saiu machucado...`
 
-* *Perdoar não significa esquecer...
+`Perdoar não significa esquecer...`
 
-* *A confiança é como o cristal, uma vez quebrado nunca mais cola!
+`A confiança é como o cristal, uma vez quebrado nunca mais cola!`
 
 # Aqui é a minha homepage
 
