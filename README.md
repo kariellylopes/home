@@ -1,3 +1,15 @@
+<style>
+ @import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap');
+ *{
+  font-family: Niconne, cursive;
+ }
+ 
+ body, html {
+  background-color: #fe5caf;
+ }
+</style>
+
+
 # home
 
 ## INPORTANTE LEMBRAR:
@@ -13,7 +25,7 @@
 
 ## SE NAO FOSSE AMOR *(Autor desconhecido)*
 
-Se não fosse amor, não haveria planos,nem vontades, nem ciúmes, nem coração ferido...
+Se não fosse amor, não haveria planos, nem vontades, nem ciúmes, nem coração ferido...
 
 Se não fosse amor, não haveria desejo, nem o medo da solião...
 
