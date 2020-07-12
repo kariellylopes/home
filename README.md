@@ -5,14 +5,15 @@
  }
  
  body, html {
-  background-color: #fe5caf;
+  background-color: #f6aad5;/*#fe5caf*/
+ }
+ 
+ p {
+  font-size: 20px;
  }
 </style>
 
-
-# home
-
-## INPORTANTE LEMBRAR:
+# INPORTANTE LEMBRAR:
 
 `Palavras são como pedras, dependendo da intensidade com que são atiradas podem machucar muito!`
 
