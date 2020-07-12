@@ -1,6 +1,6 @@
 # home
 
-**INPORTANTE LEMBRAR:**
+## INPORTANTE LEMBRAR:
 
 `Palavras são como pedras, dependendo da intensidade com que são atiradas podem machucar muito!`
 
@@ -9,6 +9,33 @@
 `Perdoar não significa esquecer...`
 
 `A confiança é como o cristal, uma vez quebrado nunca mais cola!`
+
+
+## SE NAO FOSSE AMOR *(Autor desconhecido)*
+
+Se não fosse amor, não haveria planos,nem vontades, nem ciúmes, nem coração ferido...
+
+Se não fosse amor, não haveria desejo, nem o medo da solião...
+
+Se não fosse amor, não haveria saudades, nem o meu pensamento o tempo todo em você...
+
+Se não fosse amor, eu já teria desistido.
+
+É de vc que eu lembro quando falam de amor...
+
+É em você que penso antes de dormir...
+
+É você que eu imagino ao meu lado enquanto eu viver, sempre imaginei desde que o conheci...
+
+É tudo você, sempre vai ser você... e isso eu já não posso mais controlar, pois eu te amo.
+
+*(Obs: texto lido na internet, algumas palavras foram modificadas do texto original por eu não me lembrar o texto com exatidão e as inseridas serem mais fiéis aos meus sentimentos...)*
+
+## SIMPLESMENTE ACONTECE *(Cecelia Ahern)*
+
+Escolher a pessoa com quem você quer dividir sua vida é uma das decisões mais importantes que, qualquer um pode fazer, sempre. Porque quando dá errado deixa a sua vida cinza, e as vezes, você nem nota, até você acordar numa manhã e perceber que anos se passaram. Nós dois sabemos o que é isso...
+
+Sua amizade trouxe cor para a minha vida, isso até nos momentos mais sombrios, sou a pessoa mais sortuda do mundo, por esse presente, espero não tê-la desvalorizado, acho que talvez eu tenha, por que as vezes você não vê, que a melhor coisa que aconteceu a você está aí, bem sob o seu nariz, mas isso também é bom, de verdade, porque eu percebi, que *não importa onde você esteja, ou o que está fazendo, ou com quem esteja, eu sempre, honesta e verdadeiramente, te amarei com todo o meu ser ser!*
 
 # Aqui é a minha homepage
 
