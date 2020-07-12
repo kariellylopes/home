@@ -37,6 +37,9 @@ Escolher a pessoa com quem você quer dividir sua vida é uma das decisões mais
 
 Sua amizade trouxe cor para a minha vida, isso até nos momentos mais sombrios, sou a pessoa mais sortuda do mundo, por esse presente, espero não tê-la desvalorizado, acho que talvez eu tenha, por que as vezes você não vê, que a melhor coisa que aconteceu a você está aí, bem sob o seu nariz, mas isso também é bom, de verdade, porque eu percebi, que *não importa onde você esteja, ou o que está fazendo, ou com quem esteja, eu sempre, honesta e verdadeiramente, te amarei com todo o meu ser ser!*
 
+[Poesias de Vinícius de Moraes](poesias/vinicius-de-moraes.md)
+
+
 # Aqui é a minha homepage
 
 
