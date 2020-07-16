@@ -13,7 +13,7 @@
  }
 </style>
 
-# INPORTANTE LEMBRAR:
+# Importante Lembrar:
 
 `Palavras são como pedras, dependendo da intensidade com que são atiradas podem machucar muito!`
 
@@ -24,7 +24,7 @@
 `A confiança é como o cristal, uma vez quebrado nunca mais cola!`
 
 
-## SE NAO FOSSE AMOR *(Autor desconhecido)*
+## Se Não Fosse Amor *(Autor desconhecido)*
 
 Se não fosse amor, não haveria planos, nem vontades, nem ciúmes, nem coração ferido...
 
@@ -44,7 +44,7 @@ Se não fosse amor, eu já teria desistido.
 
 *(Obs: texto lido na internet, algumas palavras foram modificadas do texto original por eu não me lembrar o texto com exatidão e as inseridas serem mais fiéis aos meus sentimentos...)*
 
-## SIMPLESMENTE ACONTECE *(Cecelia Ahern)*
+## Simplesmente Acontece *(Cecelia Ahern)*
 
 Escolher a pessoa com quem você quer dividir sua vida é uma das decisões mais importantes que, qualquer um pode fazer, sempre. Porque quando dá errado deixa a sua vida cinza, e as vezes, você nem nota, até você acordar numa manhã e perceber que anos se passaram. Nós dois sabemos o que é isso...
 
