@@ -54,7 +54,7 @@ Sua amizade trouxe cor para a minha vida, isso até nos momentos mais sombrios, 
 
 [Citações](citacoes/literarias/cora-coralina.md)
 
-[Karielly Lopes](karielly/frases/sentiment.md)
+[Karielly Lopes](karielly/sentimentos.md)
 
 # Aqui é a minha homepage
 
