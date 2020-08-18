@@ -103,12 +103,3 @@ ah sim
    1. item um
    2. item dois
    3. etc. acho que tem que dar alguns espaços no início da linha, tenho mais uma ideia, vou testar depois
-
- ## lista de compras
- 
- algum conteúdo inútil, para fazer dar certo kkk
- 
- ### doces
- 1. **trufa de licor de cereja**
- 2. diamante negro
- 3. *alfajor*
