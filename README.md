@@ -56,6 +56,8 @@ Sua amizade trouxe cor para a minha vida, isso até nos momentos mais sombrios, 
 
 [Karielly Lopes](karielly/sentimentos.md)
 
+[Pensamentos](pensamentos.md)
+
 # Aqui é a minha homepage
 
 
